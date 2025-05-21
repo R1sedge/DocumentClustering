@@ -1,3 +1,4 @@
 mlartifacts
 mlruns
 /LSTM, BERT, +++/ag_news/embeddings.pt
+/LSTM, BERT, +++/ag_news/tfhub_cache/
